@@ -1,0 +1,15 @@
+body{
+    color: white;
+    font-size: 24;
+}
+
+#TimeLeft
+{
+    float:right;
+    margin-right: 20px;
+}
+
+#drawn
+{
+    color: lightgreen;
+}
